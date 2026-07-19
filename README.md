@@ -1,4 +1,4 @@
-This is the EMG module implementing the explicit modified-gradient (EMG) method within the GIZMO code.
+This is the EMG module implementing the explicit modified-gradient (EMG) method within the gizmo-public code.
 
 Replace files with identical names inside the original GIZMO using those from this module, and fully substitute the native hydro file suite in GIZMO with hydro-r. 
 
