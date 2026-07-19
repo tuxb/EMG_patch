@@ -1,1 +1,1 @@
-This is a patch file implementing the EMG (Explicitly modified gradient) method within the GIZMO code.
+This is the EMG module implementing the explicit modified-gradient (EMG) method within the GIZMO code.
